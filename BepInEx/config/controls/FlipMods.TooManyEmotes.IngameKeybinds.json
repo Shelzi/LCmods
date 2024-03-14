@@ -1,1 +1,1 @@
-{"overrides":[{"action":"OpenEmoteMenuHotkey","origPath":"<Keyboard>/backquote","path":"<Keyboard>/minus"}]}
+{"overrides":[{"action":"OpenEmoteMenuHotkey","origPath":"<Keyboard>/backquote","path":"<Keyboard>/minus","groups":"KeyboardAndMouse"}]}
