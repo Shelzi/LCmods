@@ -1,0 +1,2 @@
+*.lem filter=lfs diff=lfs merge=lfs -text
+*.lethalbundle filter=lfs diff=lfs merge=lfs -text
