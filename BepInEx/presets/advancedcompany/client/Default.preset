@@ -1,0 +1,28 @@
+{
+  "file": {
+    "save_in_profile": false
+  },
+  "hotbar": {
+    "hotbar_scale": 1.0,
+    "hotbar_alpha": 0.13,
+    "hotbar_spacing": 10.0,
+    "hotbar_border_width": 4.0,
+    "hotbar_y": 50.0,
+    "invert_scroll": true
+  },
+  "cosmetics": {
+    "activated_cosmetics": [
+      "builtin.hardhat"
+    ]
+  },
+  "compability": {
+    "disable_music": false,
+    "hide_equipment": false,
+    "hide_cosmetics": false,
+    "animations_compability": false
+  },
+  "graphics": {
+    "vision_enhancer_brightness": 0.7,
+    "music_volume": 1.0
+  }
+}

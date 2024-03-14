@@ -1,0 +1,679 @@
+ManifestFileVersion: 0
+CRC: 2876219332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16e23193f663ada767096658b676fc50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6b99a0504dfe2c236a7864dfa2cf9b28
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 16e23193f663ada767096658b676fc50
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 880151135, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 85075132, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1569631092, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1750259433, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23c1ce4fb46143f46bc5cb5224c934f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1946537778, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1231276594, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1029476188, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1014499492, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1213317757, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1265089256, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 808788885, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 191
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.DungeonFlowPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.PlanetPrefabInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.RandomWeatherPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.ScrapSpawnChancePerScene
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableEnemiesPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableMapObjectPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableOutsideObjectPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableScrapPair
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BitArray128
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FrameSettings
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FrameSettingsOverrideMask
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.HDPhysicalCamera
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.LocalVolumetricFogArtistParameters
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ObsoleteFrameSettings
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ObsoleteLightLoopSettings
+Assets:
+- Assets/Mods/SpookiesMoonies/textures/namek/meshescari209old1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart11_spec.png
+- Assets/Mods/SpookiesMoonies/textures/halo/israel museum egypt.jpeg
+- Assets/Mods/SpookiesMoonies/textures/namek/car003b1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2835_0 1.png
+- Assets/Mods/SpookiesMoonies/items/scraps/battery/battery.fbx
+- Assets/Mods/SpookiesMoonies/textures/halo/diffuse.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/plastic006_2k_roughness.jpg
+- Assets/Mods/SpookiesMoonies/textures/halo/ruined_structure_sm_lambert1_ao.png
+- Assets/Mods/SpookiesMoonies/materials/halo/israel museum egypt.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/meshescar1510a1_diff.png
+- Assets/Mods/SpookiesMoonies/items/scraps/pills/survivaltools2_pills_metallicsmoothness.png
+- Assets/Mods/SpookiesMoonies/textures/namek/t_inside.png
+- Assets/Mods/SpookiesMoonies/textures/halo/wall1disp.png
+- Assets/Mods/SpookiesMoonies/textures/halo/t_zenuv_scifi_trimsheet_ambient_occlusion.png
+- Assets/Mods/SpookiesMoonies/textures/namek/studiostand011_diff.png
+- Assets/Mods/SpookiesMoonies/textures/halo/model.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/meshesbasichelmettroopscorp1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/t_area01_ground_cratera_01_d.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshestrunk21_diff.png
+- Assets/Mods/SpookiesMoonies/materials/halo/model.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/rodin_thinker_diffuse.jpg
+- Assets/Mods/SpookiesMoonies/meshes/namek/crater.obj
+- Assets/Mods/SpookiesMoonies/textures/namek/veh007c01_01_am.png
+- Assets/Mods/SpookiesMoonies/textures/halo/obelisk_complete_low_lambert1_basecolor.png
+- Assets/Mods/SpookiesMoonies/moons/halo/halo.prefab
+- Assets/Mods/SpookiesMoonies/materials/halo/ruined_structure_sm_lambert1_basecolor
+  - copy.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart11_nmap.png
+- Assets/Mods/SpookiesMoonies/materials/namek/t_area01_ground_cratera_01_d.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/abbey_wall_roughness.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/ruins building.obj
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2837_2.png
+- Assets/Mods/SpookiesMoonies/textures/namek/plastic009_2k_normaldx.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/veh007c01_01_di.png
+- Assets/Mods/SpookiesMoonies/textures/namek/hellfire11_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshesarmscar11_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/wreckedboxcargate1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/car004b1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_right_farbuild_checker_normal.tga.png
+- Assets/Mods/SpookiesMoonies/textures/namek/union1_diff.png
+- Assets/Mods/SpookiesMoonies/materials/halo/abbey_wall_diffuse - copy.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/arch_complete_low_lambert1_basecolor.png
+- Assets/Mods/SpookiesMoonies/textures/halo/tower_intact_roughness.png
+- Assets/Mods/SpookiesMoonies/materials/halo/tower_ruined_base_color.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/veh005c01_li.png
+- Assets/Mods/SpookiesMoonies/textures/halo/ruined_structure_sm_lambert1_basecolor.png
+- Assets/Mods/SpookiesMoonies/items/scraps/matchbox/survivaltools2_matchbox_albedotransparency.png
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2835_0.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/tower_damaged_normal_directx.png
+- Assets/Mods/SpookiesMoonies/textures/namek/2139-v2.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart26_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2837_2 1.png
+- Assets/Mods/SpookiesMoonies/meshes/halo/ruined_structure_sm.fbx
+- Assets/Mods/SpookiesMoonies/textures/namek/pz.png
+- Assets/Mods/SpookiesMoonies/textures/namek/housedowl1_diff.png
+- Assets/Mods/SpookiesMoonies/materials/namek/namekship_defaultmaterial_basecolor.mat
+- Assets/Mods/SpookiesMoonies/items/scraps/rune/rune_stone_low_defaultmaterial_roughness.jpg
+- Assets/Mods/SpookiesMoonies/meshes/halo/ring3.obj
+- Assets/Mods/SpookiesMoonies/meshes/halo/model.obj
+- Assets/Mods/SpookiesMoonies/items/scraps/cannedfood/survivaltools2_cannedfood_metallicsmoothness.png
+- Assets/Mods/SpookiesMoonies/textures/namek/skyblue.png
+- Assets/Mods/SpookiesMoonies/textures/namek/mesheseurovan1_diff.png
+- Assets/Mods/SpookiesMoonies/materials/namek/pz.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/metal034_2k_normalgl.jpg
+- Assets/Mods/SpookiesMoonies/meshes/namek/gas mask.obj
+- Assets/Mods/SpookiesMoonies/meshes/namek/maquina_tiempo_db12.obj
+- Assets/Mods/SpookiesMoonies/textures/namek/leaf1_diff.png
+- Assets/Mods/SpookiesMoonies/items/scraps/cannedfood/cannedfood.asset
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart22_diff.png
+- Assets/Mods/SpookiesMoonies/meshes/halo/export.fbx
+- Assets/Mods/SpookiesMoonies/materials/namek/new material 2.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/metal034_2k_color.jpg
+- Assets/Mods/SpookiesMoonies/textures/halo/walls1color.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/smoller tree 1.prefab
+- Assets/Mods/SpookiesMoonies/materials/namek/new material 3.mat
+- Assets/Mods/SpookiesMoonies/materials/namek/1200px-earth_western_hemisphere_transparent_background.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/metal038_1k_roughness.jpg
+- Assets/Mods/SpookiesMoonies/materials/namek/black-and-yellow-hazard-stripes-background-industrial-wallpaper-lines-and-diagonal-texture-police-line-or-danger-tapes-illustration-sign-symbol-and-icon-caution-or-constuction-concept-free-vector.mat
+- Assets/Mods/SpookiesMoonies/items/scraps/matchbox/survivaltools2_matches_normal.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/friezaship.fbx
+- Assets/Mods/SpookiesMoonies/materials/namek/studiostand011_diff.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/abbey_wall_normal.png
+- Assets/Mods/SpookiesMoonies/items/scraps/matchbox/matchbox.mat
+- Assets/Mods/SpookiesMoonies/materials/halo/arch_complete_low_lambert1_basecolor.mat
+- Assets/Mods/SpookiesMoonies/items/scraps/rune/rune_stone_low_defaultmaterial_normal.jpg
+- Assets/Mods/SpookiesMoonies/materials/namek/sewerfire011_diff.mat
+- Assets/Mods/SpookiesMoonies/meshes/namek/bridge.obj
+- Assets/Mods/SpookiesMoonies/materials/namek/meshpart10_diff 2.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/pilar1color.png
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2835_0 1.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/bark1color.png
+- Assets/Mods/SpookiesMoonies/materials/namek/green_water_lake_tahoe.mat
+- Assets/Mods/SpookiesMoonies/items/scraps/cannedfood/cannedfood.fbx
+- Assets/Mods/SpookiesMoonies/meshes/halo/arch_complete_low.fbx
+- Assets/Mods/SpookiesMoonies/textures/namek/meshesoldcarwreck1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/metro20331_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/leather031_2k_roughness.jpg
+- Assets/Mods/SpookiesMoonies/textures/halo/pilar1disp.png
+- Assets/Mods/SpookiesMoonies/textures/halo/abbey_wall_metalness.png
+- Assets/Mods/SpookiesMoonies/textures/namek/union1_nmap.png
+- Assets/Mods/SpookiesMoonies/textures/namek/leather031_2k_normaldx.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/toon_1.bmp
+- Assets/Mods/SpookiesMoonies/items/scraps/tape/tape.asset
+- Assets/Mods/SpookiesMoonies/textures/halo/sergameprops1_checker_emissive.tga.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart12_spec.png
+- Assets/Mods/SpookiesMoonies/textures/halo/defaultmaterial_normal.jpg
+- Assets/Mods/SpookiesMoonies/items/scraps/tape/tape.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart8_diff 1.png
+- Assets/Mods/SpookiesMoonies/textures/halo/12321312321.terrainlayer
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2913_1.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/tkhr4uwebhrg3v5zzl21ohvmo1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/body1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_checker_normal.tga.png
+- Assets/Mods/SpookiesMoonies/textures/namek/part1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/halo/tower_damaged_base_color.png
+- Assets/Mods/SpookiesMoonies/materials/namek/skyfloor.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/building_04_emission.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshesc11_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/nx 1.png
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_l_lbuild_checker_basecolor.tga.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/dragon balls.fbx
+- Assets/Mods/SpookiesMoonies/items/scraps/matchbox/survivaltools2_matchbox_normal.png
+- Assets/Mods/SpookiesMoonies/textures/halo/obelisk_complete_low_lambert1_emissive.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/yur.fbx
+- Assets/Mods/SpookiesMoonies/meshes/namek/tree.prefab
+- Assets/Mods/SpookiesMoonies/textures/halo/pilar1roughness.png
+- Assets/Mods/SpookiesMoonies/materials/halo/dcrbmun-38493001-d0cc-4bd6-9acb-2bf1109b48
+  - copy.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/meshescoupecylinder00111_diff.png
+- Assets/Mods/SpookiesMoonies/textures/halo/sergameprops1_checker_normal.tga.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/ring.obj
+- Assets/Mods/SpookiesMoonies/textures/namek/part2_diff.png
+- Assets/Mods/SpookiesMoonies/materials/namek/ventilation1_diff 1.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/tower_intact_base_color.png
+- Assets/Mods/SpookiesMoonies/textures/namek/plastic009_2k_normalgl.jpg
+- Assets/Mods/SpookiesMoonies/textures/halo/moss2.jpeg
+- Assets/Mods/SpookiesMoonies/items/scraps/tape/survivaltools2_tape_metallicsmoothness.png
+- Assets/Mods/SpookiesMoonies/items/scraps/matchbox/matches.mat
+- Assets/Mods/SpookiesMoonies/meshes/namek/smoller tree 1 1.prefab
+- Assets/Mods/SpookiesMoonies/meshes/namek/friezashipdoor.fbx
+- Assets/Mods/SpookiesMoonies/textures/halo/tower_intact_normal_directx.png
+- Assets/Mods/SpookiesMoonies/textures/namek/nz.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshesspeciallight1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/cara82hatchback1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/halo/dcrbmun-38493001-d0cc-4bd6-9acb-2bf1109b48.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/hatchback1_diff.png
+- Assets/Mods/SpookiesMoonies/items/scraps/rune/rune.fbx
+- Assets/Mods/SpookiesMoonies/materials/halo/vannoseinnr2bump.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/213432423.terrainlayer
+- Assets/Mods/SpookiesMoonies/textures/namek/veh000c00_body_li.png
+- Assets/Mods/SpookiesMoonies/items/scraps/pills/pills.fbx
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart3_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/metal038_1k_normaldx.jpg
+- Assets/Mods/SpookiesMoonies/textures/halo/normallll.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/newlayer 1.terrainlayer
+- Assets/Mods/SpookiesMoonies/textures/namek/zaporozhetszaz968m1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/f254ecc6d85eb45633160cf26ab4b96f46aa9498
+  1.png
+- Assets/Mods/SpookiesMoonies/textures/halo/building_04_metalness.png
+- Assets/Mods/SpookiesMoonies/textures/namek/360_f_549604374_lhetgnygmjniiypehrzbpg4ry3jlku2d.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/ground051_2k_normalgl.jpg
+- Assets/Mods/SpookiesMoonies/materials/halo/sergameprops1_checker_emissive.tga.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/vannoseinnr2bump.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2978_0.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart2_diff.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/tree real 1.prefab
+- Assets/Mods/SpookiesMoonies/textures/halo/building_04_ao.png
+- Assets/Mods/SpookiesMoonies/textures/namek/na_freezaship_sh.png
+- Assets/Mods/SpookiesMoonies/materials/namek/veh007c01_01_sp.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/leather014_1k_roughness.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/py 1.png
+- Assets/Mods/SpookiesMoonies/textures/halo/plane_t_zenuv_scifi_trimsheet_emissive.png
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2913_0.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/studiostand011_nmap.png
+- Assets/Mods/SpookiesMoonies/textures/halo/plane_t_zenuv_scifi_trimsheet_roughness.png
+- Assets/Mods/SpookiesMoonies/textures/namek/1957chevroletbelair1_diff.png
+- Assets/Mods/SpookiesMoonies/materials/namek/360_f_549604374_lhetgnygmjniiypehrzbpg4ry3jlku2d.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2887_0.png
+- Assets/Mods/SpookiesMoonies/textures/namek/ghc_avt_base.png
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2837_2.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_right_farbuild_checker_metallic.tga.png
+- Assets/Mods/SpookiesMoonies/textures/namek/oldcar1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshesambulancecarrusians11_diff.png
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2837_2 1.mat
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2993_2.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart10_diff.png
+- Assets/Mods/SpookiesMoonies/materials/namek/2139-v2.mat
+- Assets/Mods/SpookiesMoonies/meshes/halo/halo ring.dae
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2913_0 1.mat
+- Assets/Mods/SpookiesMoonies/items/scraps/pills/pills.asset
+- Assets/Mods/SpookiesMoonies/textures/namek/car001a11_diff.png
+- Assets/Mods/SpookiesMoonies/textures/halo/basecolor.jpg
+- Assets/Mods/SpookiesMoonies/textures/halo/plane_t_zenuv_scifi_trimsheet_metallic.png
+- Assets/Mods/SpookiesMoonies/materials/namek/download.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_checker_metallic.tga.png
+- Assets/Mods/SpookiesMoonies/textures/namek/py.png
+- Assets/Mods/SpookiesMoonies/moons/template/testmoon.prefab
+- Assets/Mods/SpookiesMoonies/textures/halo/grass.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/efe9ca5c1dbe809100073029c8549e13e8021ff1.jpeg
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_left_farbuilding_checker_basecolor.tga.png
+- Assets/Mods/SpookiesMoonies/meshes/halo/pack_oldtowers.obj
+- Assets/Mods/SpookiesMoonies/materials/halo/basecolor.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/pz 1.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/gokuspaceship.obj
+- Assets/Mods/SpookiesMoonies/materials/halo/tower_ruined_base_color - copy.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/oldpolicecar1_diff.png
+- Assets/Mods/SpookiesMoonies/materials/namek/new material - copy.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/car001b11_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/body3_diff.png
+- Assets/Mods/SpookiesMoonies/items/scraps/battery/battery.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/na_freezaship_sh.tga
+- Assets/Mods/SpookiesMoonies/materials/namek/metal034_2k_color.mat
+- Assets/Mods/SpookiesMoonies/items/scraps/tape/tape.prefab
+- Assets/Mods/SpookiesMoonies/meshes/halo/ring2.obj
+- Assets/Mods/SpookiesMoonies/textures/namek/part4_diff.png
+- Assets/Mods/SpookiesMoonies/items/scraps/matchbox/matchbox.fbx
+- Assets/Mods/SpookiesMoonies/textures/halo/fl_r_lbuild_mat.1_basecolor.tga.png
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2862_1.mat
+- Assets/Mods/SpookiesMoonies/meshes/halo/ruinspack.fbx
+- Assets/Mods/SpookiesMoonies/textures/namek/leather014_1k_normaldx.jpg
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_floor_checker_roughness.tga.png
+- Assets/Mods/SpookiesMoonies/textures/namek/sky.png
+- Assets/Mods/SpookiesMoonies/textures/halo/wall1roughness.png
+- Assets/Mods/SpookiesMoonies/textures/halo/ssz_basecolor.png
+- Assets/Mods/SpookiesMoonies/textures/namek/nz 1.png
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2861_0.png
+- Assets/Mods/SpookiesMoonies/textures/namek/sewerfire011_diff.png
+- Assets/Mods/SpookiesMoonies/moons/namek/backupnamek.prefab
+- Assets/Mods/SpookiesMoonies/materials/halo/t_zenuv_scifi_trimsheet_b.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/tower_damaged_mixed_ao.png
+- Assets/Mods/SpookiesMoonies/textures/halo/ruined_structure_sm_lambert1_roughness.png
+- Assets/Mods/SpookiesMoonies/items/scraps/rune/rune.prefab
+- Assets/Mods/SpookiesMoonies/textures/halo/metallic.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/veh00c00_body_di.png
+- Assets/Mods/SpookiesMoonies/textures/halo/fl_r_lbuild_mat.1_normal.tga.png
+- Assets/Mods/SpookiesMoonies/textures/namek/1200px-earth_western_hemisphere_transparent_background.png
+- Assets/Mods/SpookiesMoonies/items/scraps/matchbox/survivaltools2_matchbox_metallicsmoothness.png
+- Assets/Mods/SpookiesMoonies/textures/halo/rodin_thinker_gloss.jpg
+- Assets/Mods/SpookiesMoonies/items/scraps/battery/survivaltools2_battery_normal.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart1_diff 1.png
+- Assets/Mods/SpookiesMoonies/textures/namek/ny 1.png
+- Assets/Mods/SpookiesMoonies/materials/namek/black-carbon-background-patterns-texture-wickerwork-textures-creative-lines-backgrounds-bl-54658.mat
+- Assets/Mods/SpookiesMoonies/meshes/namek/anyconv.com__guru_house_outside.obj
+- Assets/Mods/SpookiesMoonies/textures/namek/ny.png
+- Assets/Mods/SpookiesMoonies/textures/halo/defaultmaterial_albedo.jpg
+- Assets/Mods/SpookiesMoonies/materials/halo/rodin_thinker_diffuse.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/defaultmaterial_roughness.jpg
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2837_4.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/roughness.jpg
+- Assets/Mods/SpookiesMoonies/items/scraps/pills/pills.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/na_fship.tga
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_shiny_emissive.png
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2993_2 1.png
+- Assets/Mods/SpookiesMoonies/materials/namek/veh007c01_01_am.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/dragon balls_texture.jpg
+- Assets/Mods/SpookiesMoonies/meshes/halo/zenuv_scifi_trimsheet_01.fbx
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart10_spec.png
+- Assets/Mods/SpookiesMoonies/textures/halo/rodin_thinker_normal.png
+- Assets/Mods/SpookiesMoonies/materials/halo/moss2.mat
+- Assets/Mods/SpookiesMoonies/meshes/namek/grass2 1.prefab
+- Assets/Mods/SpookiesMoonies/moons/halo/halonavmesh.asset
+- Assets/Mods/SpookiesMoonies/textures/namek/plastic006_2k_normaldx.jpg
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2965_0.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/internal_ground_ao_texture.jpeg
+- Assets/Mods/SpookiesMoonies/textures/namek/sign1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/halo/abbey_wall_emission.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart4_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/leaf1_nmap.png
+- Assets/Mods/SpookiesMoonies/textures/namek/t_seat_d.png
+- Assets/Mods/SpookiesMoonies/materials/namek/na_freezaship_sh.mat
+- Assets/Mods/SpookiesMoonies/meshes/namek/pivot.prefab
+- Assets/Mods/SpookiesMoonies/moons/namek/namekprefab.prefab
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2913_0 1.png
+- Assets/Mods/SpookiesMoonies/textures/namek/leaf1_spec.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/friezaspaceship.obj
+- Assets/Mods/SpookiesMoonies/materials/halo/fl1_floor_checker_basecolor.tga.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart2_diff 1.png
+- Assets/Mods/SpookiesMoonies/items/scraps/pills/survivaltools2_pills_albedotransparency.png
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2913_2.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/na_fship 1.tga
+- Assets/Mods/SpookiesMoonies/textures/namek/skygradient.png
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_shiny_basecolor.png
+- Assets/Mods/SpookiesMoonies/textures/namek/skyfloor.png
+- Assets/Mods/SpookiesMoonies/items/scraps/battery/battery.prefab
+- Assets/Mods/SpookiesMoonies/textures/halo/tower_ruined_roughness.png
+- Assets/Mods/SpookiesMoonies/textures/halo/internal_ground_ao_texture 1.jpeg
+- Assets/Mods/SpookiesMoonies/textures/halo/obelisk_complete_low_lambert1_maskmap.png
+- Assets/Mods/SpookiesMoonies/textures/namek/vehiclered1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/union1_spec.png
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2900_0 copy.png
+- Assets/Mods/SpookiesMoonies/spookiesmodassetbank.asset
+- Assets/Mods/SpookiesMoonies/meshes/namek/tree real 1 1.prefab
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_right_farbuild_checker_emissive.tga.png
+- Assets/Mods/SpookiesMoonies/materials/namek/veh005c01_di.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_parking_checker_emissive.tga.png
+- Assets/Mods/SpookiesMoonies/textures/halo/tower_damaged_roughness.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/friezashipdoorledge.fbx
+- Assets/Mods/SpookiesMoonies/textures/namek/newlayer.terrainlayer
+- Assets/Mods/SpookiesMoonies/meshes/halo/napoleon.fbx
+- Assets/Mods/SpookiesMoonies/textures/namek/cara82hatchbackglass1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/t_panel_e.png
+- Assets/Mods/SpookiesMoonies/items/scraps/tape/survivaltools2_tape_normal.png
+- Assets/Mods/SpookiesMoonies/textures/namek/na_fshipin.tga
+- Assets/Mods/SpookiesMoonies/materials/namek/pcn_avt_base.mat
+- Assets/Mods/SpookiesMoonies/moons/namek/nameknavmesh.asset
+- Assets/Mods/SpookiesMoonies/items/scraps/cannedfood/cannedfood.mat
+- Assets/Mods/SpookiesMoonies/materials/namek/meshesgrass31mat.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/body2_diff.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/leaf1 1.prefab
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2837_5.mat
+- Assets/Mods/SpookiesMoonies/materials/halo/bark1color.mat
+- Assets/Mods/SpookiesMoonies/items/scraps/battery/battery.asset
+- Assets/Mods/SpookiesMoonies/moons/namek/namek.prefab
+- Assets/Mods/SpookiesMoonies/textures/halo/ruined_structure_sm_lambert1_normal.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/leaf1.prefab
+- Assets/Mods/SpookiesMoonies/items/scraps/tape/survivaltools2_tape_albedotransparency.png
+- Assets/Mods/SpookiesMoonies/materials/namek/na_fshipstep.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/212321312.terrainlayer
+- Assets/Mods/SpookiesMoonies/textures/namek/meshespoop1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/plastic006_2k_color.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/metal034_2k_metalness.jpg
+- Assets/Mods/SpookiesMoonies/materials/halo/grass - copy.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/halo/tower_ruined_base_color.png
+- Assets/Mods/SpookiesMoonies/textures/halo/sergameprops1_checker_basecolor.tga.png
+- Assets/Mods/SpookiesMoonies/materials/halo/catmaterial.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_parking_checker_basecolor.tga.png
+- Assets/Mods/SpookiesMoonies/textures/namek/na_fshipstep 1.tga
+- Assets/Mods/SpookiesMoonies/textures/halo/abbey_wall_diffuse.png
+- Assets/Mods/SpookiesMoonies/textures/halo/tower_ruined_mixed_ao.png
+- Assets/Mods/SpookiesMoonies/items/scraps/pills/pills.prefab
+- Assets/Mods/SpookiesMoonies/meshes/namek/namekship.obj
+- Assets/Mods/SpookiesMoonies/meshes/namek/namek - copy.asset
+- Assets/Mods/SpookiesMoonies/textures/halo/3213123.terrainlayer
+- Assets/Mods/SpookiesMoonies/items/scraps/cannedfood/survivaltools2_cannedfood_normal.png
+- Assets/Mods/SpookiesMoonies/textures/namek/standardcubemap.hdr
+- Assets/Mods/SpookiesMoonies/textures/namek/nx.png
+- Assets/Mods/SpookiesMoonies/textures/namek/junkfairlane1_diff.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/anyconv.com__goku damaged1 ssj.obj
+- Assets/Mods/SpookiesMoonies/moons/halo/halo.asset
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2822_0 1.png
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2900_0 copy.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/bark1normal.png
+- Assets/Mods/SpookiesMoonies/textures/namek/newlayer 2.terrainlayer
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_floor_checker_metallic.tga.png
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_floor_checker_normal.tga.png
+- Assets/Mods/SpookiesMoonies/textures/namek/t_seat_e.png
+- Assets/Mods/SpookiesMoonies/items/scraps/battery/survivaltools2_battery_albedotransparency.png
+- Assets/Mods/SpookiesMoonies/materials/namek/meshpart3_diff 1.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/ground051_2k_roughness.jpg
+- Assets/Mods/SpookiesMoonies/materials/halo/abbey_wall_diffuse.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_checker_basecolor.tga.png
+- Assets/Mods/SpookiesMoonies/textures/namek/black-and-yellow-hazard-stripes-background-industrial-wallpaper-lines-and-diagonal-texture-police-line-or-danger-tapes-illustration-sign-symbol-and-icon-caution-or-constuction-concept-free-vector.jpg
+- Assets/Mods/SpookiesMoonies/items/scraps/cannedfood/survivaltools2_cannedfood_albedotransparency.png
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_l_lbuild_checker_roughness.tga.png
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_right_farbuild_checker_roughness.tga.png
+- Assets/Mods/SpookiesMoonies/materials/namek/na_fship.mat
+- Assets/Mods/SpookiesMoonies/materials/halo/fl1_checker_basecolor.tga.mat
+- Assets/Mods/SpookiesMoonies/meshes/halo/trees.fbx
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart13_spec.png
+- Assets/Mods/SpookiesMoonies/textures/halo/defaultmaterial_metallic.jpg
+- Assets/Mods/SpookiesMoonies/meshes/namek/grass.obj
+- Assets/Mods/SpookiesMoonies/textures/namek/veh005c01_di.png
+- Assets/Mods/SpookiesMoonies/moons/halo/halovideo.mp4
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart11_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/studiostand011_spec.png
+- Assets/Mods/SpookiesMoonies/items/scraps/cannedfood/cannedfood.prefab
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_parking_checker_normal.tga.png
+- Assets/Mods/SpookiesMoonies/textures/halo/internal_ground_ao_texture 2.jpeg
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart13_nmap.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshblock1_diff.png
+- Assets/Mods/SpookiesMoonies/items/scraps/rune/rune.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_right_farbuild_checker_basecolor.tga.png
+- Assets/Mods/SpookiesMoonies/textures/namek/na_freezaship_sh.jpg
+- Assets/Mods/SpookiesMoonies/meshes/halo/israel museum egypt.obj
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_left_farbuilding_checker_metallic.tga.png
+- Assets/Mods/SpookiesMoonies/meshes/halo/b1.obj
+- Assets/Mods/SpookiesMoonies/meshes/halo/ruin_blocks.fbx
+- Assets/Mods/SpookiesMoonies/materials/namek/veh005c01_li.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart8_diff.png
+- Assets/Mods/SpookiesMoonies/materials/halo/ruined_structure_sm_lambert1_basecolor.mat
+- Assets/Mods/SpookiesMoonies/items/scraps/matchbox/matchbox.asset
+- Assets/Mods/SpookiesMoonies/textures/halo/building_04_normal.png
+- Assets/Mods/SpookiesMoonies/textures/halo/21321312.terrainlayer
+- Assets/Mods/SpookiesMoonies/materials/namek/new material - copy 1.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_l_lbuild_checker_normal.tga.png
+- Assets/Mods/SpookiesMoonies/materials/halo/tower_damaged_base_color.mat
+- Assets/Mods/SpookiesMoonies/meshes/halo/rodin_thinker.obj
+- Assets/Mods/SpookiesMoonies/textures/halo/arch_complete_low_lambert1_normal.png
+- Assets/Mods/SpookiesMoonies/textures/namek/na_fshipin 1.tga
+- Assets/Mods/SpookiesMoonies/moons/namek/namek.asset
+- Assets/Mods/SpookiesMoonies/textures/halo/defaultmaterial_ao.jpg
+- Assets/Mods/SpookiesMoonies/textures/halo/tower_intact_mixed_ao.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart12_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2822_0.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart10_diff 1.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/anyconv.com__piccolo.obj
+- Assets/Mods/SpookiesMoonies/textures/namek/ground051_2k_color.jpg
+- Assets/Mods/SpookiesMoonies/textures/halo/ruined_structure_sm_lambert1_metallic.png
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2978_0.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/veh007c01_01_sp.png
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2862_1.png
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2837_3.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/t_zenuv_scifi_trimsheet_n.png
+- Assets/Mods/SpookiesMoonies/moons/template/testmoonnavmesh.asset
+- Assets/Mods/SpookiesMoonies/textures/namek/wreckedboxcarjump1_diff.png
+- Assets/Mods/SpookiesMoonies/items/scraps/battery/survivaltools2_battery_metallicsmoothness.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/anyconv.com__frieza.obj
+- Assets/Mods/SpookiesMoonies/modmanifest.asset
+- Assets/Mods/SpookiesMoonies/textures/namek/namekship_defaultmaterial_basecolor.png
+- Assets/Mods/SpookiesMoonies/textures/namek/car005b1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/halo/t_zenuv_scifi_trimsheet_b.png
+- Assets/Mods/SpookiesMoonies/textures/halo/obelisk_complete_low_lambert1_normal.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart4_diff 1.png
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2965_0.png
+- Assets/Mods/SpookiesMoonies/materials/namek/na_fshipin.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart10_nmap.png
+- Assets/Mods/SpookiesMoonies/textures/namek/metal038_1k_metalness.jpg
+- Assets/Mods/SpookiesMoonies/textures/halo/branch1normal.png
+- Assets/Mods/SpookiesMoonies/textures/halo/tower_ruined_normal_directx.png
+- Assets/Mods/SpookiesMoonies/materials/halo/tower_intact_base_color.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/na_fshipstep.tga
+- Assets/Mods/SpookiesMoonies/meshes/namek/grass2.obj
+- Assets/Mods/SpookiesMoonies/materials/halo/grass.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart3_diff 1.png
+- Assets/Mods/SpookiesMoonies/meshes/halo/obelisk.fbx
+- Assets/Mods/SpookiesMoonies/textures/namek/car001b21_diff.png
+- Assets/Mods/SpookiesMoonies/items/scraps/rune/rune_stone_low_defaultmaterial_metallic.jpg
+- Assets/Mods/SpookiesMoonies/textures/halo/sergameprops1_checker_roughness.tga.png
+- Assets/Mods/SpookiesMoonies/materials/namek/plastic006_2k_roughness.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2835_0.png
+- Assets/Mods/SpookiesMoonies/meshes/namek/ruins building and cars set.obj
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_floor_checker_basecolor.tga.png
+- Assets/Mods/SpookiesMoonies/materials/namek/metal038_1k_roughness.mat
+- Assets/Mods/SpookiesMoonies/meshes/halo/sergamepresentation.fbx
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_parking_checker_metallic.tga.png
+- Assets/Mods/SpookiesMoonies/materials/halo/t_zenuv_scifi_trimsheet_b - copy.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_left_farbuilding_checker_normal.tga.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart13_diff.png
+- Assets/Mods/SpookiesMoonies/items/scraps/rune/rune_stone_low_defaultmaterial_emissive.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/px.png
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2993_2.png
+- Assets/Mods/SpookiesMoonies/moons/template/testmoon.asset
+- Assets/Mods/SpookiesMoonies/materials/namek/plastic009_2k_roughness.mat
+- Assets/Mods/SpookiesMoonies/meshes/namek/anyconv.com__gohan_kid.obj
+- Assets/Mods/SpookiesMoonies/textures/halo/normals.jpg
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_left_farbuilding_checker_roughness.tga.png
+- Assets/Mods/SpookiesMoonies/textures/namek/px 1.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart9_diff.png
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_parking_checker_roughness.tga.png
+- Assets/Mods/SpookiesMoonies/materials/halo/obelisk_complete_low_lambert1_basecolor.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/ground051_2k_ambientocclusion.jpg
+- Assets/Mods/SpookiesMoonies/textures/halo/building_04_albedom.png
+- Assets/Mods/SpookiesMoonies/textures/namek/metal038_1k_color.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/traindamaged1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/green_water_lake_tahoe.jpg
+- Assets/Mods/SpookiesMoonies/meshes/namek/meshblock1.prefab
+- Assets/Mods/SpookiesMoonies/meshes/namek/goku ship.fbx
+- Assets/Mods/SpookiesMoonies/textures/halo/ssz_occlusionroughnessmetallic.png
+- Assets/Mods/SpookiesMoonies/textures/namek/tex_2913_0.png
+- Assets/Mods/SpookiesMoonies/textures/halo/bark1roughness.png
+- Assets/Mods/SpookiesMoonies/items/scraps/pills/survivaltools2_pills_normal.png
+- Assets/Mods/SpookiesMoonies/textures/namek/car001a21_diff.png
+- Assets/Mods/SpookiesMoonies/items/scraps/matchbox/matchbox.prefab
+- Assets/Mods/SpookiesMoonies/textures/namek/meshbuilding1_diff.png
+- Assets/Mods/SpookiesMoonies/items/scraps/matchbox/survivaltools2_matches_albedotransparency.png
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2861_0.mat
+- Assets/Mods/SpookiesMoonies/moons/namek/namek.mp4
+- Assets/Mods/SpookiesMoonies/meshes/halo/ruintample.fbx
+- Assets/Mods/SpookiesMoonies/textures/namek/meshcar1_diff.png
+- Assets/Mods/SpookiesMoonies/meshes/halo/model.dae
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_checker_roughness.tga.png
+- Assets/Mods/SpookiesMoonies/textures/namek/metal034_2k_roughness.jpg
+- Assets/Mods/SpookiesMoonies/textures/namek/standardcubemap.png
+- Assets/Mods/SpookiesMoonies/items/scraps/tape/tape.fbx
+- Assets/Mods/SpookiesMoonies/materials/halo/diffuse.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/mesheswoodenwatchtower21_diff.png
+- Assets/Mods/SpookiesMoonies/textures/halo/ssz_normal.png
+- Assets/Mods/SpookiesMoonies/textures/namek/black-carbon-background-patterns-texture-wickerwork-textures-creative-lines-backgrounds-bl-54658.png
+- Assets/Mods/SpookiesMoonies/textures/namek/veh007c01lm.png
+- Assets/Mods/SpookiesMoonies/materials/namek/metal034_2k_metalness.mat
+- Assets/Mods/SpookiesMoonies/meshes/halo/untitled.fbx
+- Assets/Mods/SpookiesMoonies/meshes/namek/tree.obj
+- Assets/Mods/SpookiesMoonies/meshes/halo/d81aa142436d442baa0b3975bbfbe935.blend.fbx
+- Assets/Mods/SpookiesMoonies/materials/halo/obelisk_complete_low_lambert1_emissive.mat
+- Assets/Mods/SpookiesMoonies/materials/namek/veh000c00_body_li.mat
+- Assets/Mods/SpookiesMoonies/materials/halo/moss2 - copy.mat
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2837_6.mat
+- Assets/Mods/SpookiesMoonies/materials/namek/na_fship 1.mat
+- Assets/Mods/SpookiesMoonies/materials/namek/new material 1.mat
+- Assets/Mods/SpookiesMoonies/meshes/halo/unsc_panama_empty_clean.obj
+- Assets/Mods/SpookiesMoonies/textures/halo/fl_r_lbuild_mat.1_roughness.tga.png
+- Assets/Mods/SpookiesMoonies/textures/halo/abbey_wall_specular.png
+- Assets/Mods/SpookiesMoonies/textures/halo/fl1_l_lbuild_checker_metallic.tga.png
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2822_0.mat
+- Assets/Mods/SpookiesMoonies/materials/namek/meshesbasichelmettroopscorp1_diff.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/download.jpg
+- Assets/Mods/SpookiesMoonies/items/scraps/rune/rune_stone_low_defaultmaterial_basecolor.jpg
+- Assets/Mods/SpookiesMoonies/items/scraps/matchbox/survivaltools2_matches_metallicsmoothness.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart5_diff.png
+- Assets/Mods/SpookiesMoonies/textures/namek/pcn_avt_base.png
+- Assets/Mods/SpookiesMoonies/textures/namek/plastic009_2k_roughness.jpg
+- Assets/Mods/SpookiesMoonies/moons/namek/namekprefabmaterial.mat
+- Assets/Mods/SpookiesMoonies/materials/halo/fl1_left_farbuilding_checker_roughness.tga.mat
+- Assets/Mods/SpookiesMoonies/textures/namek/house1111_diff.png
+- Assets/Mods/SpookiesMoonies/moons/halo/haloprefab.prefab
+- Assets/Mods/SpookiesMoonies/moons/halo/backup.prefab
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart21_diff.png
+- Assets/Mods/SpookiesMoonies/meshes/wasteland - copy.asset
+- Assets/Mods/SpookiesMoonies/textures/namek/meshpart14_diff.png
+- Assets/Mods/SpookiesMoonies/materials/namek/veh00c00_body_di.mat
+- Assets/Mods/SpookiesMoonies/materials/namek/veh007c01_01_di.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/sergameprops1_checker_metallic.tga.png
+- Assets/Mods/SpookiesMoonies/textures/halo/branch1roughness.png
+- Assets/Mods/SpookiesMoonies/items/scraps/rune/rune.asset
+- Assets/Mods/SpookiesMoonies/textures/namek/ventilation1_diff.png
+- Assets/Mods/SpookiesMoonies/textures/halo/branch1color.png
+- Assets/Mods/SpookiesMoonies/textures/namek/meshesfancycar11_diff.png
+- Assets/Mods/SpookiesMoonies/materials/halo/fl1_right_farbuild_checker_basecolor.tga.mat
+- Assets/Mods/SpookiesMoonies/textures/halo/fl_r_lbuild_mat.1_metallic.tga.png
+- Assets/Mods/SpookiesMoonies/materials/namek/tex_2993_2 1.mat
+- Assets/Mods/SpookiesMoonies/materials/halo/dcrbmun-38493001-d0cc-4bd6-9acb-2bf1109b48.mat
+Dependencies:
+- C:/Users/kylew/Downloads/Unity Development/LethalSDK_v1.3.0 (1)/LethalSDK_Project/LethalSDK_Project/Assets/AssetBundles/lethalexpansion.lem

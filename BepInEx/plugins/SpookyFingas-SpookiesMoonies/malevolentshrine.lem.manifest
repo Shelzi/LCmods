@@ -1,0 +1,219 @@
+ManifestFileVersion: 0
+CRC: 3216462948
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e7a83337f591b00261cb86b347542ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e099a4aa39772da2152358c0026f3186
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6e7a83337f591b00261cb86b347542ec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 880151135, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 85075132, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1569631092, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1750259433, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1946537778, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1231276594, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1029476188, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1014499492, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1213317757, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1265089256, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 808788885, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 191
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.AudioClipInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.DungeonFlowPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.PlanetPrefabInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.RandomWeatherPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.ScrapSpawnChancePerScene
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableEnemiesPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableMapObjectPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableScrapPair
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.LocalVolumetricFogArtistParameters
+Assets:
+- Assets/Mods/MalevolentShrine/items/scraps/cannedfood/cannedfood.fbx
+- Assets/Mods/MalevolentShrine/materials/bull_skull_cm.tga.mat
+- Assets/Mods/MalevolentShrine/items/scraps/cannedfood/survivaltools2_cannedfood_albedotransparency.png
+- Assets/Mods/MalevolentShrine/items/scraps/pills/pills.asset
+- Assets/Mods/MalevolentShrine/materials/spinel-black-painted-swatch-300x300.mat
+- Assets/Mods/MalevolentShrine/items/scraps/matchbox/survivaltools2_matches_albedotransparency.png
+- Assets/Mods/MalevolentShrine/textures/human_skull_nm.tga.png
+- Assets/Mods/MalevolentShrine/audio/sukuna vs mahoragamalevolent shrine- jujutsu
+  kaisen s2 episode 17 ost  hq cover.mp3
+- Assets/Mods/MalevolentShrine/textures/mouth_ao.tga.png
+- Assets/Mods/MalevolentShrine/items/scraps/matchbox/survivaltools2_matchbox_normal.png
+- Assets/Mods/MalevolentShrine/textures/extrastuff_ao.tga.png
+- Assets/Mods/MalevolentShrine/textures/mouth_nm.tga.png
+- Assets/Mods/MalevolentShrine/textures/human_skull_ao.tga.png
+- Assets/Mods/MalevolentShrine/moons/malevolent-shrine-jujutsu-kaisen.mp4
+- Assets/Mods/MalevolentShrine/items/scraps/tape/survivaltools2_tape_normal.png
+- Assets/Mods/MalevolentShrine/items/scraps/matchbox/survivaltools2_matchbox_metallicsmoothness.png
+- Assets/Mods/MalevolentShrine/textures/mouth_r.tga.png
+- Assets/Mods/MalevolentShrine/materials/mouth_r.tga.mat
+- Assets/Mods/MalevolentShrine/moons/malevolentshrine.prefab
+- Assets/Mods/MalevolentShrine/textures/human_skull_r.tga.png
+- Assets/Mods/MalevolentShrine/textures/mouth_e.tga.png
+- Assets/Mods/MalevolentShrine/textures/extrastuff_nm.tga.png
+- Assets/Mods/MalevolentShrine/textures/extrastuff_e.tga.png
+- Assets/Mods/MalevolentShrine/textures/shrine_nm.tga.png
+- Assets/Mods/MalevolentShrine/items/scraps/matchbox/survivaltools2_matches_normal.png
+- Assets/Mods/MalevolentShrine/materials/metallic_map.tga.mat
+- Assets/Mods/MalevolentShrine/items/scraps/battery/battery.mat
+- Assets/Mods/MalevolentShrine/materials/human_skull_cm.tga.mat
+- Assets/Mods/MalevolentShrine/textures/maxresdefault.jpg
+- Assets/Mods/MalevolentShrine/items/scraps/matchbox/survivaltools2_matchbox_albedotransparency.png
+- Assets/Mods/MalevolentShrine/moons/malevolentshrinemoon.asset
+- Assets/Mods/MalevolentShrine/textures/bull_skull_nm.tga.png
+- Assets/Mods/MalevolentShrine/textures/shrine_m.tga.png
+- Assets/Mods/MalevolentShrine/items/scraps/matchbox/matchbox.asset
+- Assets/Mods/MalevolentShrine/textures/shrine_r.tga.png
+- Assets/Mods/MalevolentShrine/moons/malevolentshrinenavmesh.asset
+- Assets/Mods/MalevolentShrine/items/scraps/tape/tape.asset
+- Assets/Mods/MalevolentShrine/items/scraps/cannedfood/survivaltools2_cannedfood_metallicsmoothness.png
+- Assets/Mods/MalevolentShrine/modmanifest.asset
+- Assets/Mods/MalevolentShrine/textures/shrine_ao.tga.png
+- Assets/Mods/MalevolentShrine/items/scraps/cannedfood/cannedfood.mat
+- Assets/Mods/MalevolentShrine/items/scraps/battery/survivaltools2_battery_metallicsmoothness.png
+- Assets/Mods/MalevolentShrine/meshes/malevolent shrine.fbx
+- Assets/Mods/MalevolentShrine/items/scraps/cannedfood/cannedfood.prefab
+- Assets/Mods/MalevolentShrine/items/scraps/pills/survivaltools2_pills_albedotransparency.png
+- Assets/Mods/MalevolentShrine/materials/shrine_cm.tga.mat
+- Assets/Mods/MalevolentShrine/items/scraps/battery/survivaltools2_battery_albedotransparency.png
+- Assets/Mods/MalevolentShrine/textures/metallic_map.tga.png
+- Assets/Mods/MalevolentShrine/items/scraps/tape/tape.fbx
+- Assets/Mods/MalevolentShrine/malevolentshrineassetbank.asset
+- Assets/Mods/MalevolentShrine/items/scraps/tape/tape.mat
+- Assets/Mods/MalevolentShrine/textures/shrine_cm.tga.png
+- Assets/Mods/MalevolentShrine/items/scraps/matchbox/matchbox.mat
+- Assets/Mods/MalevolentShrine/items/scraps/pills/survivaltools2_pills_metallicsmoothness.png
+- Assets/Mods/MalevolentShrine/items/scraps/battery/survivaltools2_battery_normal.png
+- Assets/Mods/MalevolentShrine/materials/maxresdefault.mat
+- Assets/Mods/MalevolentShrine/items/scraps/cannedfood/cannedfood.asset
+- Assets/Mods/MalevolentShrine/items/scraps/pills/pills.prefab
+- Assets/Mods/MalevolentShrine/items/scraps/tape/survivaltools2_tape_albedotransparency.png
+- Assets/Mods/MalevolentShrine/moons/malevolentshrineplanetprefab.prefab
+- Assets/Mods/MalevolentShrine/materials/lava.mat
+- Assets/Mods/MalevolentShrine/items/scraps/cannedfood/survivaltools2_cannedfood_normal.png
+- Assets/Mods/MalevolentShrine/materials/images.mat
+- Assets/Mods/MalevolentShrine/textures/dome2_diff.png
+- Assets/Mods/MalevolentShrine/textures/mouth_cm.tga.png
+- Assets/Mods/MalevolentShrine/textures/human_skull_cm.tga.png
+- Assets/Mods/MalevolentShrine/items/scraps/matchbox/matchbox.fbx
+- Assets/Mods/MalevolentShrine/items/scraps/pills/survivaltools2_pills_normal.png
+- Assets/Mods/MalevolentShrine/items/scraps/pills/pills.fbx
+- Assets/Mods/MalevolentShrine/materials/dome2_diff.mat
+- Assets/Mods/MalevolentShrine/items/scraps/tape/tape.prefab
+- Assets/Mods/MalevolentShrine/textures/bull_skull_r.tga.png
+- Assets/Mods/MalevolentShrine/textures/extrastuff_cm.tga.png
+- Assets/Mods/MalevolentShrine/textures/spinel-black-painted-swatch-300x300.jpg
+- Assets/Mods/MalevolentShrine/items/scraps/battery/battery.asset
+- Assets/Mods/MalevolentShrine/items/scraps/matchbox/matches.mat
+- Assets/Mods/MalevolentShrine/textures/lava.jpg
+- Assets/Mods/MalevolentShrine/items/scraps/matchbox/survivaltools2_matches_metallicsmoothness.png
+- Assets/Mods/MalevolentShrine/items/scraps/matchbox/matchbox.prefab
+- Assets/Mods/MalevolentShrine/meshes/dome.obj
+- Assets/Mods/MalevolentShrine/items/scraps/battery/battery.fbx
+- Assets/Mods/MalevolentShrine/materials/extrastuff_cm.tga.mat
+- Assets/Mods/MalevolentShrine/moons/backup.prefab
+- Assets/Mods/MalevolentShrine/textures/images.jpg
+- Assets/Mods/MalevolentShrine/items/scraps/pills/pills.mat
+- Assets/Mods/MalevolentShrine/textures/bull_skull_ao.tga.png
+- Assets/Mods/MalevolentShrine/textures/bull_skull_cm.tga.png
+- Assets/Mods/MalevolentShrine/items/scraps/tape/survivaltools2_tape_metallicsmoothness.png
+- Assets/Mods/MalevolentShrine/items/scraps/battery/battery.prefab
+Dependencies:
+- C:/Users/kylew/Downloads/Unity Development/Malevolent Shrine/LethalSDK_Project/Malevolent
+  Shrine/Assets/AssetBundles/lethalexpansion.lem

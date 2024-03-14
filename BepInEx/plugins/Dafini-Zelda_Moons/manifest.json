@@ -1,0 +1,10 @@
+{
+    "name": "Zelda_Moons",
+    "version_number": "1.0.3",
+    "website_url": "",
+    "description": "Includes both Clock Town and Hyrule Field. If you like these Moons and want more like it, Check out Dafis Mega Moon Pack Emporium!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+		"HolographicWings-LethalExpansion-1.2.16"
+    ]
+}

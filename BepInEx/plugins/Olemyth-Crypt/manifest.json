@@ -1,0 +1,10 @@
+{
+    "name": "Crypt",
+    "version_number": "1.3.3",
+    "website_url": "",
+    "description": "Adds a new moon to the game using lethal expansion.",
+    "dependencies": [
+	"HolographicWings-LethalExpansion-1.3.7"
+	, "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

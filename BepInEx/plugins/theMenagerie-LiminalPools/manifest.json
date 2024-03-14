@@ -1,0 +1,12 @@
+{
+    "name": "LiminalPools",
+    "version_number": "1.0.3",
+    "website_url": "https://github.com/Drako1245/LiminalPoolRoomsLC",
+    "description": "Adds a dungeon to lethal company based off of Jared Pike's 'dream pools'.",
+    "dependencies": [
+    "Evaisa-LethalLib-0.14.2",
+    "Evaisa-HookGenPatcher-0.0.5",
+    "BepInEx-BepInExPack-5.4.2100",
+    "IAmBatby-LethalLevelLoader-1.1.6"
+    ]
+}

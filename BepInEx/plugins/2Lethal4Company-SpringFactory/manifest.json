@@ -1,0 +1,10 @@
+{
+  "name": "SpringFactory",
+  "version_number": "1.4.5",
+  "website_url": "https://github.com/vinrata/SpringFactory",
+  "description": "The spring factory used to manufacture Coils and Springs.",
+  "dependencies": [
+    "jockie-LethalExpansionCore-1.3.14",
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

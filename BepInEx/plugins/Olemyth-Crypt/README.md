@@ -1,0 +1,2 @@
+# Crypt Map Mod
+This is my first map for lethal company and was made with lethal expansions SDK. This is a cheaper map with larger dungen generation and more loot. This map uses both in game interiors. Enjoy.
