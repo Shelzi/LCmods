@@ -1,3 +1,9 @@
+# 2.0.5
++ Added filters in the emote menu when showing "all emotes". You can hide complementary emotes this way if you want.
++ Fixed issue when syncing the sexy saxophone. This emote can randomly play one of two emotes with music. Syncing now always syncs the song.
++ Playing emote music on the ship speaker *shouldn't* mute the speaker anymore.
++ Performing jug band while in the same sync group as someone else will now play the next instrument, but stay in sync.
++ Tweaked some emote audio timing.
 # 2.0.4
 + Added Dance Moves music.
 + The ship speaker can now be used as an emote audio source. This can be disabled in the config.
