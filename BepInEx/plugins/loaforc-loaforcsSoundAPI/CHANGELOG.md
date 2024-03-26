@@ -1,3 +1,34 @@
+## v1.0.0!!!
+It's taken a bit of time but it's here.
+
+Added:
+- Conditions, you're now able to make your sounds react better to what's happening in game.
+- `"update_every_frame"`. A new option that lets you swap out a sound as its playing, it will also respect the amount of time that has elapsed.
+
+Changed:
+- Changed to a thread pool based multithreading system.
+ - Intro Skipper mods should work better.
+ - Crashes should also be fixed.
+ - Genuinely wild speedup. LethalResonance's non-startup sounds took 12 seconds to load on v0.x. It now takes 2 (for me at least, your numbers will vary a lot)
+
+Fixed:
+- Added more null checks, should be more compatible with LittleCompany.
+
+### v1.0.2
+- Fixed an issue where AudioSourceReplaceHandler would try to unregister itself multiple times.
+
+### v1.0.3
+- Maybe registering stuff would help.
+
+### v1.0.4
+- Temporary debug logs for conditions
+
+### v1.0.5
+- More null checks
+
+<details>
+<summary>Old Versions</summary>
+
 ## v0.1
 - Added basic condition system
 - Added support for soundpacks to have custom configs
@@ -23,3 +54,5 @@
 
 ### v0.0.3
 - Fixed an issue where soundpacks wouldn't load if they were unpacked by a mod manager
+
+</details>

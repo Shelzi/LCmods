@@ -10,9 +10,20 @@ Please report any bugs you find on the github repository!
 
 ## Changelogs
 
+### V1.0.13
+
+- [Fixed isPlayerControlled not being set as true early enough (1A3Dev)](https://github.com/ANormalTwig/LC-LateCompany/pull/39)
+
+### V1.0.12
+
+- [Fixed Joining Mid-Game Bugging Out Dead Players (1A3Dev)](https://github.com/ANormalTwig/LC-LateCompany/pull/38)
+
 ### V1.0.11
 
 - Fixed error when clicking invite friends button on LAN (1A3Dev)
+
+<details>
+<summary>Old</summary>
 
 ### V1.0.10
 
@@ -23,4 +34,6 @@ Please report any bugs you find on the github repository!
 - Fixed weather desync. (Probably)
 - Code cleanup.
 - Changed a config name and description. You will probably have to remove the old .cfg file for this mod.
+
+</details>
 

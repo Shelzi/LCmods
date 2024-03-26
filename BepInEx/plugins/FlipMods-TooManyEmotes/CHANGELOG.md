@@ -1,3 +1,13 @@
+# 2.0.8
++ Fixed issue with player's local helmet appearing on other players while they emote.
+# 2.0.7
++ First person cameras now animates during emotes. This currently only affects mods that let you see players' cameras, such as helmet/body cams. First person emoting will be added in the future as experimental.
++ Updated compat with LCVR to support new API and new method for detecting players in VR mode. If you still run into issues after this update, please let me know on the discord!
++ Added config option to force reset favorited emotes upon next boot. This may fix issues in some cases where the user has some favorited emotes that aren't in the game anymore. (the config setting will reset back to false if set to true, and after it resets the favorited emotes)
++ Other minor bug fixes.
+# 2.0.6
++ Potential fix for errors and camera issues caused by dying while emoting.
++ Added a config entry to disable the girl patch in case of it conflicting with another mod. This patch is to fix the issue with the emote camera seeing the girl while she's "unrendered".
 # 2.0.5
 + Added filters in the emote menu when showing "all emotes". You can hide complementary emotes this way if you want.
 + Fixed issue when syncing the sexy saxophone. This emote can randomly play one of two emotes with music. Syncing now always syncs the song.

@@ -1,3 +1,13 @@
+## 1.2.2
+- Fixed the scrap generation bug. It should spawn the correct amount of items now!
+## 1.2.1
+- Tweaked Fire Exit chances to prevent them not spawning sometimes (hopefully)
+- Removed a fix that could be causing issues when other mods modify the scrap amount generated (needs more testing)
+- Reduced max amount of steam valves present at the map
+- Fixed a log error related to the steam valves when the interior is not the Hospital
+- Solved an issue with CullFactory's mod culling everything at some entrances
+- Adjusted some decorations
+- Updated README with new pictures and a google form link to report issues
 ## 1.2.0
 - Introduced 2 new variations to the main entrance (there is now a total of 3!)
 - Added the breaker box from the vanilla facility!
