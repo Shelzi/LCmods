@@ -1,3 +1,14 @@
+# 2.0.10
++ Fixed issue with the first person setting in the emote menu not saving.
++ Fixed the "I don't care" emote having the wrong start animation.
+# 2.0.9
++ Added 3 more emotes. AFK (complementary), Ma-ya-hi, and Snake Summoner.
++ Added first person emotes option in the emote menu. (experimental)
++ Added option in radial menu to only perform emote animations (no audio). This does not mute emotes, but prevents the audio from playing at all when you perform emotes. Other players will not hear the audio either.
++ Added the persistent emotes mode in the config. If enabled by the host, emotes will not be reset when the ship/game resets. Emote credits will still reset. These emotes are linked to the save in which they were unlocked on. (for now)
++ Applied patch for HelmetCameras to correctly render the local player's body from other players' cameras.
++ Revised some code a bit related to the emote audio to potentially fix issues with audio playing indefinitely. This is usually caused when emotes play audio on the player, rather than on the boombox/ship speaker.<br>
+If this is still an issue after this update, I would appreciate it if you could share any details about this on this mod's github page, and if possible, how to replicate this so I can investigate this further.
 # 2.0.8
 + Fixed issue with player's local helmet appearing on other players while they emote.
 # 2.0.7

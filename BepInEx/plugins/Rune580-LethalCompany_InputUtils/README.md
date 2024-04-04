@@ -1,5 +1,10 @@
 # LethalCompany InputUtils
 
+[![NuGet Version](https://img.shields.io/nuget/v/Rune580.Mods.LethalCompany.InputUtils?style=for-the-badge&logo=nuget)](https://www.nuget.org/packages/Rune580.Mods.LethalCompany.InputUtils)
+[![Thunderstore Version](https://img.shields.io/thunderstore/v/Rune580/LethalCompany_InputUtils?style=for-the-badge&logo=thunderstore&logoColor=white)](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
+[![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/Rune580/LethalCompany_InputUtils?style=for-the-badge&logo=thunderstore&logoColor=white)](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Rune580/LethalCompanyInputUtils/build.yml?branch=master&style=for-the-badge&logo=github)](https://github.com/Rune580/LethalCompanyInputUtils/actions/workflows/build.yml)
+
 Utilities for creating InputActions and having them be accessible in-game.
 InputActions created through this mod are accessible in-game via the keybinds menu added in update v45.
 
@@ -10,6 +15,7 @@ This mod is just a dependency for other mods, it doesn't add content, but it all
 
 ### Where are my bind overrides stored?
 Depends on the version of InputUtils:
+- **>= 0.7.0** Global: `AppData/LocalLow/ZeekerssRBLX/Lethal Company/InputUtils/controls` Local: `BepInEx/config/controls`
 - **>= 0.4.1** `BepInEx/config/controls`
 - **<= 0.4.0** `BepInEx/controls`
 
@@ -20,7 +26,18 @@ Use a Mod manager. I won't provide support if a mod manager wasn't used, a mod m
 *This Api/Mod is still in beta, please keep in mind that stuff may change.*
 Feedback is appreciated.
 
-Download the latest release from either the [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils) or the [Releases](https://github.com/Rune580/LethalCompanyInputUtils/releases).
+Add the nuget package to your project, if you want a copy and paste solution:
+
+add this to your project `.csproj`
+```xml
+<ItemGroup>
+  <!-- Make sure the 'Version="..."' is set to the latest version -->
+  <PackageReference Include="Rune580.Mods.LethalCompany.InputUtils" Version="0.7.3" />
+</ItemGroup>
+```
+That should be all you need to get started.
+
+Otherwise if you don't want to use nuget, you can download the latest release from either the [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils) or the [Releases](https://github.com/Rune580/LethalCompanyInputUtils/releases).
 Extract the zip and add a reference to the dll file of the mod in Visual Studio or Rider.
 
 ### Initializing Your Binds
@@ -116,19 +133,15 @@ The easiest (opinionated) way to do so would be to have a static instance in you
 [BepInDependency("com.rune580.LethalCompanyInputUtils", BepInDependency.DependencyFlags.HardDependency)]
 public class MyExamplePlugin : BaseUnityPlugin
 {
-    internal static MyExampleInputClass InputActionsInstance = new MyExampleInputClass();
-}
-```
-You could also opt for instantiating the instance in the InputActions class (Singleton-style).
-```csharp
-public class MyExampleInputClass : LcInputActions 
-{
-    public static MyExampleInputClass Instance = new();
+    internal static MyExampleInputClass InputActionsInstance;
 
-    [InputAction("explodekey", "<Keyboard>/j", "<Gamepad>/Button North", Name = "Explode")]
-    public InputAction ExplodeKey { get; set; }
+    public void Awake()
+    {
+        InputActionsInstance = new MyExampleInputClass();
+    }
 }
 ```
+
 > [!IMPORTANT]
 > #### But How Do I Get My Binds String?
 > You may have noticed that `<keyboard>/yourKey` can be a little confusing for the special buttons. So try this:

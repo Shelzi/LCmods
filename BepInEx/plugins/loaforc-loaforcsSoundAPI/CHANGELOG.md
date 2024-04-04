@@ -26,6 +26,9 @@ Fixed:
 ### v1.0.5
 - More null checks
 
+### v1.0.6
+- :skull:
+
 <details>
 <summary>Old Versions</summary>
 

@@ -1,6 +1,6 @@
 {
     "name": "AprilCompany",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://www.youtube.com/watch?v=PuNcS7JtyP8",
     "description": "Adds and improves upon the main AC features.",
     "dependencies": [
