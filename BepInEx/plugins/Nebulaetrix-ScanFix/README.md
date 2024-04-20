@@ -1,2 +1,0 @@
-- Changes the in-game scan command to target the scrap values of objects instead of the max value that they can have
-- Allows for a scan when in orbit, which totals up all the items inside your ship

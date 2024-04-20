@@ -41,6 +41,14 @@ This mod is not affiliated with BiggerLobby/LethalPlayers nor does it use any co
 ```
 
 # Changelog
+## 1.9.0
+- Added support for v50.
+- Fixed meaningless chat error.
+- Added various configuration options regarding cosmetics.
+- Fixed player count dialogues not allowing you to type small digits.
+- Fixed LAN player count issue at below 4 or above 50.
+- Made internal version of MC be calculated from the game number rather than a universal constant.
+
 ## 1.8.1
 - Readded optimization which was accidentally removed.
 
@@ -125,12 +133,10 @@ This mod is not affiliated with BiggerLobby/LethalPlayers nor does it use any co
 - Modified version text in bottom left corner to display (MC) next to it on the menu.
 - Prevented MoreCompany servers from showing up on public lobby displays. Only other MoreCompany users can see MoreCompany public lobbies.
 
-# Upcoming (Potentially)
-- More cosmetics.
-
 # [Discord Server](https://discord.gg/cKa6sPBFZ9)
 
 ## ```Contributors```
+- 1A3Dev
 - Krystilize
 
 ## ```Cosmetic Contributors```

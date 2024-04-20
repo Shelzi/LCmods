@@ -1,9 +1,0 @@
-{
-    "name": "Nostromo",
-    "version_number": "1.1.5",
-    "website_url": "https://www.JonathanDeLeon.com",
-    "description": "Orbiting the Moon Helix 97, the Nostromo is a safe space station for Company Employees to secretly hide their scrap until The Company Qouta day. Remember, we love The Company!",
-    "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100"
-    ]
-}
